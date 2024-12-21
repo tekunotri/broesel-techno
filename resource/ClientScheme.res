@@ -1,5 +1,4 @@
-#base "../resource/Colors.res"
-#base "../resource/Fonts.res"
-#base "../scripts/crosshairs/font/Crosshairs.res"
+#base "scheme/colors.res"
+#base "scheme/fonts.res"
+#base "scheme/clientscheme.res"
 
-#base "../resource/default/DefaultScheme.res"
