@@ -1,7 +1,8 @@
-hudanimations_manifest
+"hudanimations_manifest"
 {
-	"file" "scripts/hudanimations.txt"
-	"file" "scripts/hudanimations_Broesel.txt"
-	"file" "scripts/Crosshairs/Crosshairs_Animations.txt"
-	"file" "scripts/hudanimations_tf.txt"
+	"file"	"scripts/hudanimations_lighthud-main.txt"
+	"file"	"scripts/hudanimations.txt"
+	"file"	"scripts/hudanimations_Broesel.txt"
+	"file"	"scripts/Crosshairs/Crosshairs_Animations.txt"
+	"file"	"scripts/hudanimations_tf.txt"
 }
