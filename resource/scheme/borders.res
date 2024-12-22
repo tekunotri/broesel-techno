@@ -10,29 +10,6 @@
 //
 Scheme
 {
-
-
-	//////////////////////// BITMAP FONT FILES /////////////////////////////
-	//
-	// Bitmap Fonts are ****VERY*** expensive static memory resources so they are purposely sparse
-	
-
-	//
-	//////////////////////// FONTS /////////////////////////////
-	//
-	// describes all the fonts
-	Fonts
-	{
-		// fonts are used in order that they are listed
-		// fonts listed later in the order will only be used if they fulfill a range not already filled
-		// if a font fails to load then the subsequent fonts will replace
-		
-	}
-
-	//
-	//////////////////// BORDERS //////////////////////////////
-	//
-	// describes all the border types
 	Borders
 	{
 		NoBorder
