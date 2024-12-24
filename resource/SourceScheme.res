@@ -271,7 +271,17 @@ Fonts
 				"name"		 "URW Gothic L Book" [$WINDOWS]
 				"tall"		 "8"
 				"weight"	 "50"
-				"outline"	 "0"
+				"outline"	 "1"
+			}
+		}
+		"TextEntry" // console text
+		{
+			"1"
+			{
+				"name"		 "tewi" [$WINDOWS]
+				"tall"		 "8"
+				"weight"	 "50"
+				"outline"	 "1"
 			}
 		}
 		"Default"
@@ -459,7 +469,7 @@ Fonts
 		{
 			"1"
 			{
-				"name"		"Arial"
+				"name"		"tewi"
 				"tall"		"14"
 				"weight"	"400"
 				"antialias"	"0"

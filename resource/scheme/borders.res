@@ -549,16 +549,9 @@ Scheme
 			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
 			"draw_corner_height" 	"5"	
 		}
-		LoadoutItemPopupBorder
+		"LoadoutItemPopupBorder" // reused a couple of times for convenience all over the hud.
 		{
-			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
-			
-			"image"					"button_holder_central"
-			"src_corner_height"		"32"				// pixels inside the image
-			"src_corner_width"		"32"
-			"draw_corner_width"		"4"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"4"	
+			"image" "White" "color" "33 33 33 255" "bordertype" "scalable_image"
 		}
 		
 		BackpackItemGrayedOut

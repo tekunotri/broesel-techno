@@ -422,15 +422,15 @@
 		"CornerRadius"	  "3"
 		"RightJustify"	  "1"
 		
-		"TextFont"		"surface11"
+		"TextFont"		"surface10outline"
 		
-		"TeamBlue"		"78 119 182 255"
-		"TeamRed"		"207 73 50 255"
+		"TeamBlue"		"153 204 255 255"
+		"TeamRed"		"255 64 64 255"
 		"IconColor"		"255 255 255 255"
 		"LocalPlayerColor"	"HUDBlack"
 
-		"BaseBackgroundColor"		"46 43 42 220"
-		"LocalBackgroundColor"	"235 235 219 220"
+		"BaseBackgroundColor"		"46 43 42 0"
+		"LocalBackgroundColor"	"235 235 219 128"
 	}
 
 	HudVehicle

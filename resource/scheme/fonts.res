@@ -12,7 +12,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Broesel"
+				"name"		"ZenuZero Regular" //Surface-Broesel
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -23,7 +23,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Broesel"
+				"name"		"ZenuZero Regular"
 				"tall"		"9"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -34,7 +34,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Broesel"
+				"name"		"ZenuZero Regular"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -45,7 +45,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Broesel"
+				"name"		"ZenuZero Regular"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -53,22 +53,56 @@ Scheme
 				"dropshadow"	"1"
 			}
 		}
+		surface10outline
+		{
+			"1"
+			{
+				"name"		"ZenuZero Regular"
+				"tall"		"10"
+				"additive"	"0"
+				"antialias" 	"1"
+				"outline"	"1"
+			}
+		}
 		surface11
 		{
 			"1"
 			{
-				"name"		"Surface-Broesel"
+				"name"		"ZenuZero Regular"
 				"tall"		"11"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
 			}
 		}
+		surface11shadow
+		{
+			"1"
+			{
+				"name"		"ZenuZero Regular"
+				"tall"		"11"
+				"additive"	"0"
+				"antialias" 	"1"
+				"outline"	"0"
+				"dropshadow"	"1"
+			}
+		}
+		surface11outline
+		{
+			"1"
+			{
+				"name"		"ZenuZero Regular"
+				"tall"		"11"
+				"additive"	"0"
+				"antialias" 	"1"
+				"outline"	"1"
+			}
+		}
 		surface12
 		{
 			"1"
 			{
-				"name"		"Surface-Broesel"
+				"name"		"ZenuZero Regular"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -79,7 +113,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Broesel"
+				"name"		"ZenuZero Regular"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -87,33 +121,90 @@ Scheme
 				"dropshadow"	"1"
 			}
 		}
+		surface12outline
+		{
+			"1"
+			{
+				"name"		"ZenuZero Regular"
+				"tall"		"12"
+				"additive"	"0"
+				"antialias" 	"1"
+				"outline"	"1"
+			}
+		}
 		surface13
 		{
 			"1"
 			{
-				"name"		"Surface-Broesel"
+				"name"		"ZenuZero Regular"
 				"tall"		"13"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
 			}
 		}
+		surface13shadow
+		{
+			"1"
+			{
+				"name"		"ZenuZero Regular"
+				"tall"		"13"
+				"additive"	"0"
+				"antialias" 	"1"
+				"outline"	"0"
+				"dropshadow"	"1"
+			}
+		}
+		surface13outline
+		{
+			"1"
+			{
+				"name"		"ZenuZero Regular"
+				"tall"		"13"
+				"additive"	"0"
+				"antialias" 	"1"
+				"outline"	"1"
+			}
+		}
 		surface14
 		{
 			"1"
 			{
-				"name"		"Surface-Broesel"
+				"name"		"ZenuZero Regular"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
 			}
 		}
+		surface14shadow
+		{
+			"1"
+			{
+				"name"		"ZenuZero Regular"
+				"tall"		"14"
+				"additive"	"0"
+				"antialias" 	"1"
+				"outline"	"0"
+				"dropshadow"	"1"
+			}
+		}
+		surface14outline
+		{
+			"1"
+			{
+				"name"		"ZenuZero Regular"
+				"tall"		"14"
+				"additive"	"0"
+				"antialias" 	"1"
+				"outline"	"1"
+			}
+		}
 		surface15
 		{
 			"1"
 			{
-				"name"		"Surface-Broesel"
+				"name"		"ZenuZero Regular"
 				"tall"		"15"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -124,7 +215,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Broesel"
+				"name"		"ZenuZero Regular"
 				"tall"		"15"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -132,11 +223,22 @@ Scheme
 				"dropshadow"	"1"
 			}
 		}
+		surface15outline
+		{
+			"1"
+			{
+				"name"		"ZenuZero Regular"
+				"tall"		"15"
+				"additive"	"0"
+				"antialias" 	"1"
+				"outline"	"1"
+			}
+		}
 		surface16
 		{
 			"1"
 			{
-				"name"		"Surface-Broesel"
+				"name"		"ZenuZero Regular"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -147,7 +249,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Broesel"
+				"name"		"ZenuZero Regular"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -158,7 +260,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Broesel"
+				"name"		"ZenuZero Regular"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -170,7 +272,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Broesel"
+				"name"		"ZenuZero Regular"
 				"tall"		"20"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -181,7 +283,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Broesel"
+				"name"		"ZenuZero Regular"
 				"tall"		"23"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -192,7 +294,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Broesel"
+				"name"		"ZenuZero Regular"
 				"tall"		"23"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -204,7 +306,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -215,7 +317,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -227,7 +329,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"26"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -238,7 +340,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"26"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -250,7 +352,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -261,7 +363,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -273,7 +375,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"32"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -284,7 +386,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -295,7 +397,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -307,7 +409,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"40"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -318,7 +420,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"52"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -329,7 +431,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"60"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -340,7 +442,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"72"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -351,7 +453,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceHPAmmo-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -362,7 +464,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceHPAmmo-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"72"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -373,7 +475,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceNumbers-Sharpened"
+				"name"		"ZenuZero Regular"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -384,7 +486,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceNumbers-Sharpened"
+				"name"		"ZenuZero Regular"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -395,7 +497,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"7"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -481,7 +583,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"12"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -489,7 +591,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"13"	[$WIN32]
 				"tall"		"20"	[$X360]
 				"weight"	"900"
@@ -498,7 +600,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"14"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -507,7 +609,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"20"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -516,7 +618,7 @@ Scheme
 			}
 			"5" // Misyl: Proportional
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"9"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -524,7 +626,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
@@ -561,7 +663,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -569,7 +671,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"13"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -577,7 +679,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -586,7 +688,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -595,7 +697,7 @@ Scheme
 			}
 			"5" // Misyl: Proportional
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"9"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -615,7 +717,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -623,7 +725,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -631,7 +733,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -640,7 +742,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -649,7 +751,7 @@ Scheme
 			}
 			"5" // Misyl: Proportional
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"9"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -660,7 +762,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"18"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -668,7 +770,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"21"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -676,7 +778,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"22"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -685,7 +787,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"28"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -694,7 +796,7 @@ Scheme
 			}
 			"5" // Misyl: Proportional
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"18"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -702,7 +804,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"20"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
@@ -733,7 +835,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"6"
 				"weight"	"500"
 				"additive"	"0"
@@ -744,14 +846,14 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"	"480 599"
 			}
 			"2"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"13"	[$WIN32]
 				"tall"		"23"	[$X360]
 				"weight"	"700"
@@ -759,21 +861,21 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"	"768 1023"
 			}
 			"4"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"20"
 				"weight"	"700"
 				"yres"	"1024 1199"
 			}
 			"5" // Misyl: Proportional
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"12"
 				"weight"	"700"
 				"antialias"	"1"
@@ -783,7 +885,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"24"
 				"tall_lodef"	"80"
 				"weight"	"500"
@@ -793,7 +895,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"32"
 				"tall_hidef"	"120"
 				"weight"	"500"
@@ -803,7 +905,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"44"
 				"weight"	"500"
 				"additive"	"0"
@@ -812,7 +914,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"48"
 				"weight"	"500"
 				"additive"	"0"
@@ -821,7 +923,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -832,7 +934,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"44"
 				"tall_lodef"	"52"
 				"weight"	"500"
@@ -845,7 +947,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"35"
 				"tall_lodef"	"40"
 				"weight"	"500"
@@ -858,7 +960,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"36"
 				"tall_hidef"	"48"
 				"weight"	"500"
@@ -870,7 +972,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -881,7 +983,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -892,7 +994,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"24"
 				"tall_lodef"		"28"
 				"weight"	"500"
@@ -904,7 +1006,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"24"
 				"weight"	"500"
 				"yres"		"1 1199"
@@ -913,7 +1015,7 @@ Scheme
 			}
 			"2" // Misyl: Proportional
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -924,7 +1026,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -935,7 +1037,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -946,7 +1048,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
@@ -959,7 +1061,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"20"
@@ -972,7 +1074,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"14"
 				"tall_lodef"	"16"
 				"weight"	"500"
@@ -984,7 +1086,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -995,7 +1097,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -1006,7 +1108,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -1018,7 +1120,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1029,7 +1131,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1041,7 +1143,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1052,7 +1154,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"4"
 				"weight"	"500"
 				"additive"	"0"
@@ -1063,7 +1165,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -1074,7 +1176,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -1085,7 +1187,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"9"
 				"weight"	"0"
 				"additive"	"0"
@@ -1096,7 +1198,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"9"
 				"weight"	"0"
 				"additive"	"0"
@@ -1107,7 +1209,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"6"
 				"weight"	"0"
 				"additive"	"0"
@@ -1118,7 +1220,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"12"
 				"tall_hidef"	"14"
 				"tall_lodef"	"16"
@@ -1131,7 +1233,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1206,7 +1308,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
@@ -1219,7 +1321,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"16"
 				"tall_hidef"	"22"
 				"tall_lodef"	"22"
@@ -1232,7 +1334,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -1243,7 +1345,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -1254,7 +1356,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"8"
 				"tall_hidef"	"9"
 				"tall_lodef"	"10"
@@ -1267,7 +1369,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"8"
 				"tall_hidef"	"7"
 				"weight"	"500"
@@ -1279,7 +1381,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"15"
 				"weight"	"700"
 				"antialias" 	"1"
@@ -1289,7 +1391,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"15"	[$WIN32]
 				"tall"		"21"	[$X360]
 				"weight"	"700"
@@ -1300,7 +1402,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"18"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -1309,7 +1411,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"21"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -1318,7 +1420,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"24"
 				"weight"	"1000"
 				"antialias" 	"1"
@@ -1392,7 +1494,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"  "URW Gothic L Book"
+				"name"  "ZenuZero Regular"
 				"tall"  "28"
 				"weight" "0"
 				"additive" "1"
@@ -1484,7 +1586,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"24"
 				"antialias" "1"
 				"weight"	"500"
@@ -1494,7 +1596,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"11"
 				"tall_lodef"	"14"
 				"antialias" "1"
@@ -1505,7 +1607,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"12"
 				"antialias" "1"
 				"weight"	"500"
@@ -1516,7 +1618,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"13"
 				"tall_hidef"	"14"
 				"tall_lodef"	"17"
@@ -1530,7 +1632,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"SurfaceSharpened-Medium"
+				"name"			"ZenuZero Regular"
 				"tall"			"28"
 				"tall_lodef"	"48"
 				"tall_hidef"	"48"
@@ -1545,7 +1647,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"SurfaceSharpened-Medium"
+				"name"			"ZenuZero Regular"
 				"tall"			"40"
 				"tall_lodef"	"48"
 				"tall_hidef"	"48"
@@ -1560,7 +1662,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"24"
 				"tall_lodef"	"36"
 				"tall_hidef"	"36"
@@ -1573,7 +1675,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"SurfaceSharpened-Medium"
+				"name"			"ZenuZero Regular"
 				"tall"			"14" [!$OSX]
 				"tall"			"15" [$OSX]
 				"tall_lodef"	"32"
@@ -1587,7 +1689,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"6"
 				"weight"	"400"
 				"additive"	"0"
@@ -1598,7 +1700,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"8"
 				"tall_hidef"	"10"
 				"tall_lodef"	"14"
@@ -1611,7 +1713,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"10"
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
@@ -1636,7 +1738,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"20"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1648,7 +1750,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"20"
 				"tall_hidef"	"24"
 				"tall_lodef"	"24"
@@ -1662,7 +1764,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"14"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1674,7 +1776,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"20"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1686,7 +1788,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"34"
 				"tall_hidef"	"38"
 				"tall_lodef"	"38"
@@ -1775,7 +1877,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -1786,7 +1888,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"20"
 				"weight"	"400"
 				"additive"	"0"
@@ -1797,7 +1899,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -1808,7 +1910,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -1819,7 +1921,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"7"
 				"weight"	"400"
 				"additive"	"0"
@@ -1831,7 +1933,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"10"
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
@@ -1845,7 +1947,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -1853,7 +1955,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"		"600 767"
@@ -1861,7 +1963,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"		"768 1023"
@@ -1869,7 +1971,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"20"
 				"weight"	"700"
 				"yres"		"1024 1199"
@@ -1877,7 +1979,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"24"
 				"weight"	"700"
 				"yres"		"1200 10000"
@@ -1896,7 +1998,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"		"600 767"
@@ -1904,7 +2006,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"		"768 1023"
@@ -1912,7 +2014,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"20"
 				"weight"	"700"
 				"yres"		"1024 1199"
@@ -1920,7 +2022,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"24"
 				"weight"	"700"
 				"yres"		"1200 10000"
@@ -1931,7 +2033,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"10"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -1939,7 +2041,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"10"
 				"weight"	"700"
 				"yres"		"600 767"
@@ -1947,7 +2049,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"		"768 1023"
@@ -1955,7 +2057,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"		"1024 1199"
@@ -1963,7 +2065,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"15"
 				"weight"	"700"
 				"yres"		"1200 10000"
@@ -2026,7 +2128,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"8"
 				"tall_hidef"	"10"
 				"tall_lodef"	"12"
@@ -2039,7 +2141,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"9"
 				"tall_hidef"	"10"
 				"tall_lodef"	"16"
@@ -2053,7 +2155,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"11"  [!$OSX]
 				"tall"		"9"  [$OSX]
 				"weight"	"800"
@@ -2066,7 +2168,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"36"
 				"tall_lodef"		"28"
 				"weight"	"500"
@@ -2076,7 +2178,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"30"
 				"tall_lodef"		"22"
 				"weight"	"500"
@@ -2086,7 +2188,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"28"
 				"tall_lodef"	"24"
 				"weight"	"500"
@@ -2114,7 +2216,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"22"
 				"weight"	"500"
 			}
@@ -2123,7 +2225,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"18"
 				"weight"	"500"
 			}
@@ -2132,7 +2234,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"22"
 				"tall_lodef"		"18"
 				"weight"	"900"
@@ -2142,7 +2244,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"18"
 				"tall_lodef"		"18"
 				"weight"	"900"
@@ -2152,7 +2254,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"15"
 				"weight"	"900"
 			}
@@ -2162,7 +2264,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"36"
 				"weight"	"500"
 				"additive"	"0"
@@ -2173,7 +2275,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"11"
 				"weight"	"600"
 				"additive"	"0"
@@ -2184,7 +2286,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"18"
 				"weight"	"400"
 				"additive"	"0"
@@ -2205,7 +2307,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"10"
 				"weight"	"600"
 				"additive"	"0"
@@ -2216,7 +2318,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -2227,7 +2329,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"7"
 				"weight"	"400"
 				"additive"	"0"
@@ -2239,7 +2341,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"10"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -2248,7 +2350,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -2257,7 +2359,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"15"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -2270,7 +2372,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -2281,7 +2383,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -2292,7 +2394,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -2303,7 +2405,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -2314,7 +2416,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"7"
 				"weight"	"500"
 				"additive"	"0"
@@ -2325,7 +2427,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"8"
 				"antialias" "1"
 				"weight"	"500"
@@ -2335,7 +2437,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -2346,7 +2448,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -2357,7 +2459,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -2369,7 +2471,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -2380,7 +2482,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"9"
 				"weight"	"500"
 				"blur"		"3"
@@ -2392,7 +2494,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"7"
 				"weight"	"0"
 				"additive"	"1"
@@ -2403,7 +2505,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"7" [!$POSIX]
 				"tall"		"8" [$POSIX]
 				"weight"	"0"
@@ -2415,7 +2517,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"7" [!$POSIX]
 				"tall"		"8" [$POSIX]
 				"weight"	"0"
@@ -2426,7 +2528,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"7" [!$POSIX]
 				"tall"		"8" [$POSIX]
 				"weight"	"0"
@@ -2439,7 +2541,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"7"
 				"weight"	"0"
 				"antialias" 	"1"
@@ -2531,7 +2633,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"20"
 				"antialias" "1"
 				"custom"		"1" [$OSX]
@@ -2543,7 +2645,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"10"
 				"weight"	"400"
 				"yres"		"480 599"
@@ -2552,7 +2654,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -2561,7 +2663,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"22"
 				"weight"	"400"
 				"additive"	"0"
@@ -2574,7 +2676,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"10"
 				"weight"	"400"
 				"yres"		"480 599"
@@ -2584,7 +2686,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -2594,7 +2696,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"22"
 				"weight"	"400"
 				"additive"	"0"
@@ -2608,7 +2710,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"10"
 				"weight"	"800"
 				"yres"		"480 599"
@@ -2617,7 +2719,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"14"
 				"weight"	"800"
 				"additive"	"0"
@@ -2626,7 +2728,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"18"
 				"weight"	"800"
 				"additive"	"0"
@@ -2639,7 +2741,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"13"
 				"weight"	"400"
 				"additive"	"0"
@@ -2651,7 +2753,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"16"
 				"weight"	"400"
 				"additive"	"0"
@@ -2663,7 +2765,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceSharpened-Medium"
+				"name"		"ZenuZero Regular"
 				"tall"		"12"
 				"weight"	"400"
 				"additive"	"0"
@@ -2675,7 +2777,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"8"
 				"weight"	"400"
 				"additive"	"0"
@@ -2686,7 +2788,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"8"
 				"weight"	"0"
 				"antialias" 	"1"
@@ -2697,7 +2799,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"URW Gothic L Book"
+				"name"		"ZenuZero Regular"
 				"tall"		"8"
 				"weight"	"400"
 				"antialias" "1"
@@ -2728,7 +2830,7 @@ Scheme
 		}
 		"9"
 		{
-			"font" "resource/fonts/Surface-Broesel.otf"
+			"font" "resource/fonts/surface-broesel.otf"
 			"name" "Surface-Broesel"
 		}
 		"10"
@@ -2780,6 +2882,11 @@ Scheme
 		{
 			"font" "resource/fonts/urw-gothic-l-book.ttf"
 			"name" "URW Gothic L Book"
+		}
+		"20"
+		{
+			"font" "resource/fonts/ZenuZero-Regular.ttf"
+			"name" "ZenuZero Regular"
 		}
 		"21" "resource/tf.ttf"
 		"22" "resource/tfd.ttf"
