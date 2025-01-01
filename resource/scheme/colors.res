@@ -25,8 +25,8 @@ Scheme
 		"Ubercharge Full 1"   			"61 202 53 255"
 		"Ubercharge Full 2"   			"19 165 12 255"
 
-		"Low-Ammo Warning 1"  			"200 0 0 255"
-		"Low-Ammo Warning 2"  			"255 0 0 255"
+		"Low-Ammo Warning 1"  			"255 100 100 255"
+		"Low-Ammo Warning 2"  			"235 100 100 255"
 		
 		"TanLight"						"255 255 255 255"
 		
@@ -36,7 +36,7 @@ Scheme
 		"Black"							"0 0 0 255"
 		"FooterBGBlack"					"0 0 0 255"
 		"LighterDarkBrown"				"72 71 70 255"
-		"Main"							"80 175 115 255"
+		"Main"							"100 100 100 255"
 		///////////////////////////////////////////////////////////
 		/////////// END OF COLOR CUSTOMIZATION SECTION ////////////
 		///////////////////////////////////////////////////////////
