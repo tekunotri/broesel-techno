@@ -1,7 +1,7 @@
 "UnlitGeneric"
 {
 	"$translucent" 1
-	"$baseTexture" "vgui\replay\thumbnails\hp"
+	"$baseTexture" "vgui\replay\thumbnails\hpblue"
 	"$vertexcolor" 1
 	"$vertexalpha" 1
 	"%keywords" "tf"
