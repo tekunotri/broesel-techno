@@ -319,23 +319,12 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		surface60
+		surface56
 		{
 			"1"
 			{
 				"name"		"Surface-Medium"
-				"tall"		"60"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-			}
-		}
-		surface72
-		{
-			"1"
-			{
-				"name"		"Surface-Medium"
-				"tall"		"72"
+				"tall"		"56"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
@@ -352,12 +341,12 @@ Scheme
 				"outline"	"0"
 			}
 		}
-		surfaceHPAmmo72
+		surfaceHPAmmo56
 		{
 			"1"
 			{
 				"name"		"Surface-Medium"
-				"tall"		"72"
+				"tall"		"56"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
