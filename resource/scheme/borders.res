@@ -1,6 +1,5 @@
-	//////////////////// BORDERS //////////////////////////////
-	//
-	// describes all the border types
+Scheme
+{
 	Borders
 	{
 		NoBorder
@@ -2672,12 +2671,4 @@
 			}
 		}
 	}
-
-	//////////////////////// CUSTOM FONT FILES /////////////////////////////
-	//
-	// specifies all the custom (non-system) font files that need to be loaded to service the above described fonts
-	// Range specificies the characters to be used from the custom font before falling back to a default font
-	// characters in the range not specificed in the font will appear empty
-	// For TF2: Any special character will need to be added to our font file
-
-
+}

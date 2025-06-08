@@ -93,7 +93,7 @@
 			"ypos"			"20"
 			"zpos"			"5"
 			"wide"			"f0"
-			"tall"			"10"
+			"tall"			"0"
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"loadout_solid_line"

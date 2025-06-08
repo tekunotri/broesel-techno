@@ -431,7 +431,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"DIN-Medium"
+				"name"		"SurfaceHPAmmo-Medium"
 				"tall"		"56"
 				"additive"	"0"
 				"antialias" 	"1"
