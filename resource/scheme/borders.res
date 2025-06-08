@@ -1,15 +1,6 @@
-//
-// TRACKER SCHEME RESOURCE FILE
-//
-// sections:
-//		colors			- all the colors used by the scheme
-//		basesettings	- contains settings for app to use to draw controls
-//		fonts			- list of all the fonts used by app
-//		borders			- description of all the borders
-//
-//
-Scheme
-{
+	//////////////////// BORDERS //////////////////////////////
+	//
+	// describes all the border types
 	Borders
 	{
 		NoBorder
@@ -263,13 +254,14 @@ Scheme
 				
 		MainMenuSubButtonBorder
 		{
-			"inset" "0 0 1 1"
+			"inset" "0 0 1 0"
+			"proportional_scalar" "0.667"
 			Left
 			{
 				"1"
 				{
 					"color" "TanDarker"
-					"offset" "0 1"
+					"offset" "0 0"
 				}
 			}
 
@@ -278,7 +270,7 @@ Scheme
 				"1"
 				{
 					"color" "TanDarker"
-					"offset" "1 0"
+					"offset" "0 0"
 				}
 			}
 		}
@@ -2680,4 +2672,12 @@ Scheme
 			}
 		}
 	}
-}
+
+	//////////////////////// CUSTOM FONT FILES /////////////////////////////
+	//
+	// specifies all the custom (non-system) font files that need to be loaded to service the above described fonts
+	// Range specificies the characters to be used from the custom font before falling back to a default font
+	// characters in the range not specificed in the font will appear empty
+	// For TF2: Any special character will need to be added to our font file
+
+

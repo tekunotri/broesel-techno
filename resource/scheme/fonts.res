@@ -427,6 +427,17 @@ Scheme
 				"outline"	"0"
 			}
 		}
+		surfacehpammo56
+		{
+			"1"
+			{
+				"name"		"DIN-Medium"
+				"tall"		"56"
+				"additive"	"0"
+				"antialias" 	"1"
+				"outline"	"0"
+			}
+		}
 		surface60
 		{
 			"1"
@@ -2896,7 +2907,7 @@ Scheme
 		}
 		"20"
 		{
-			"font" "resource/fonts/FF_DIN_Medium.otf"
+			"font" "resource/fonts/din-medium.otf"
 			"name" "DIN-Medium"
 		}
 		"21" "resource/tf.ttf"

@@ -30,7 +30,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"WarningLabel"
-		"font"			"surface72"
+		"font"			"surface56"
 		"xpos"			"66"
 		"ypos"			"27"
 		"zpos"			"1"
