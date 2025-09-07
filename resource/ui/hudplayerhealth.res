@@ -69,7 +69,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"		"surfaceHPAmmo72"
+		"font"		"surfaceHPAmmo56"
 		"fgcolor"		"HP"
 	}	
 	"PlayerStatusHealthValueShadow"
@@ -85,7 +85,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"		"surfaceHPAmmo72"
+		"font"		"surfaceHPAmmo56"
 		"fgcolor"		"0 0 0 255"
 	}							
 	"PlayerStatusBleedImage"
